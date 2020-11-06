@@ -18,4 +18,4 @@
 ![PPT17](https://github.com/ryukh1001/Anyang_IoT_Sensor/blob/main/images/ppt_017.jpg?raw=true)
 ![PPT18](https://github.com/ryukh1001/Anyang_IoT_Sensor/blob/main/images/ppt_018.jpg?raw=true)
 ![PPT19](https://github.com/ryukh1001/Anyang_IoT_Sensor/blob/main/images/ppt_019.jpg?raw=true)
-![MAP](https://github.com/ryukh1001/Anyang_IoT_Sensor/blob/main/images/map?raw=true)
+![MAP](https://github.com/ryukh1001/Anyang_IoT_Sensor/blob/main/images/map.gif?raw=true)
